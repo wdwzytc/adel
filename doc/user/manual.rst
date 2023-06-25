@@ -647,7 +647,7 @@ from a Python interpreter::
                     'DELAIS_PHYLL_COL_TIP_NTH': 1.6}
     
     # launch the construction
-    from alinea.adel.plantgen.plantgen import gen_adel_input_data
+    from alinea.adel.plantgen.plantgen_interface import gen_adel_input_data
     (axeT, 
     dimT, 
     phenT, 
